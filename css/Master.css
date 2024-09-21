@@ -1,49 +1,10 @@
-.form1 {
-
-    direction: rtl;
-    text-align: right;
-    border: 1px solid;
-}
-
-
-
-.date {
-    width: 500px;
-}
-
 body {
-    width: 60%;
-font-size: 17px;
-}
-
-.name {
-    width: 210px;
-}
-
-.text {
-    width: 210px;
-}
-
-.leson1 {
-    width: 210px;
-}
-
-.leson2 {
-    width: 500px;
-}
-
-.sell {
-    width: 500px;
-}
-
-.other {
-    width: 500px;
-}
-
-.T {
-    width: 215px;
-}
-
-.code {
-    width: 215px;
+    direction: rtl;
+    width: 210mm; 
+    height: 297mm; 
+    margin: 0 auto; 
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgb(46, 46, 46) ;
+    font-size: 19px;
 }
