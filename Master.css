@@ -1,0 +1,10 @@
+body {
+    direction: rtl;
+    width: 210mm; 
+    height: 297mm; 
+    margin: 0 auto; 
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgb(46, 46, 46) ;
+    font-size: 19px;
+}
